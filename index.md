@@ -10,6 +10,8 @@ yo man wassup
 
 du bist ein schokoladenkuchen.
 
+$$du bist tot. obviously x_{1,2} = -b \pm \sqrt{b^2 - ac} and \sin(7) = 7$$
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
