@@ -6,6 +6,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
+weird
+
 yo man wassup
 
 du bist ein schokoladenkuchen.
