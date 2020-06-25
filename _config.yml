@@ -1,5 +1,6 @@
 title: SJAM Mathletes
-description: The official SJAM Mathletes website
-show_downloads: true
+description: The Official SJAM Mathletes Website
+show_tow_downloads: true
 google_analytics:
 theme: jekyll-theme-modernist
+use_math: true
