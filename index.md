@@ -19,10 +19,4 @@ The next meeting will be on the October 2nd, 2020. The topic will be factoring.
 ---------------------------------------------------------------------------------
 
 
-# Additional Resources
-## Resources
-[Previous Topics of the Week](previous-tow)
-## Docs
-[Writing Latex](latex-jekyll)
-## Social Media
-[Instagram](about:blank)
+## [Additional Resources](additional-resources)
