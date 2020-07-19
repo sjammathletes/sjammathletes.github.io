@@ -12,7 +12,7 @@
 
 # Honor Roll
 
-## 2019-2020 SJAM Student Achievments
+## 2019-2020 SJAM Student Achievements
 
 | Name | Grade | Contest | Award |
 |:-:|:-:|:-:|:--|
