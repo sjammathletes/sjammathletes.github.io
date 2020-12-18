@@ -5,17 +5,18 @@
 ## <center> <i> Second SJAM Mathematical Olympiad </i> </center>
 #### <center> Dec. 21, 2020, 12:00AM – Jan. 17, 2021, 11:59PM </center>
 
-#### Links:
+### Links:
  - <b><ins style="color:blue;">[Sign-Up](https://forms.gle/VrC7EFbLhy2YMEvk7)</ins></b>
  - <b><ins style="color:blue;">[Problem Set](https://www.youtube.com/watch?v=dQw4w9WgXcQ)</ins></b>
  - <b><ins style="color:blue;">[Solution Submissions](https://forms.gle/RXbA8CeKqibeRyGD7)</ins></b>
 
-#### Basic information:
+### Basic information:
  - *Number of intelligent beings per team:* 3 or fewer (meaning you can have additional members on your team if they are extremely stupid, e.g., your dog/cat/~~siblings~~)
  - Age restriction: NONE
  - *Knowledge NOT required to solve the problems:* proof of the Riemann Hypothesis, proof that P=NP, proof of Goldbach’s conjecture, calculus, …
 
-#### Instructions:
+### Instructions:
+#### TL;DR: Register, access the problems, and submit using the links above. Everything is super straightforward. You can’t get help from people outside your team. Please include your team name in the file name of each file you submit. HAVE FUN! ;D
 1. *Cheating:* No help from human beings outside your team is allowed. This means no whining to your mommy/daddy, no posting on discussion forums, etc. Exception: You’re allowed to use Wikipedia. (And other existing online sources too, although I doubt their credibility.)
 2. *Registration:* Click on the sign-up link above to sign your team up for the Olympiad. You may edit your registration information after you submit it up until the deadline.
     - A cool team name will be required during registration.
@@ -32,6 +33,7 @@
     - Submissions will trivially be electronic. Allowed formats are PDF, documents, and images. Both handwriting the solutions and typing the solutions are accepted.
     - Registration information provided in the submissions must match the information provided in the sign-up form.
     - It is left as an exercise to the reader to show that the solution to each problem must be uploaded as separate files.
+    - <i><ins>Please include your team name in the file names of your submission.</ins></i>
     - A complete and correct solution is required for full marks on a problem.
 5. *Scoring:* Your mark will be of the form of \\(a + bi\\) (\\(a\\), \\(b\\) are real numbers and \\(i\\) satisfies \\(i^2 = -1\\)), which is determined as follows:
     - \\(a\\) (\\(0 \leq a \leq \sum_{k=1}^{12}\, k \\)) will be based on the mathematical rigor, completeness, and clarity of your solutions ~~and the coolness of your team name~~
