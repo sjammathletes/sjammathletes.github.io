@@ -12,7 +12,7 @@
 
 ### Basic information:
  - *Number of intelligent beings per team:* 3 or fewer (meaning you can have additional members on your team if they are extremely stupid, e.g., your dog/cat/~~siblings~~)
- - Age restriction: NONE
+ - *Age restriction:* NONE
  - *Knowledge NOT required to solve the problems:* proof of the Riemann Hypothesis, proof that P=NP, proof of Goldbach’s conjecture, calculus, …
 
 ### Instructions:
