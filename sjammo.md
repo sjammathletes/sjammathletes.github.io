@@ -6,9 +6,9 @@
 #### <center> Dec. 21, 2020, 12:00AM – Jan. 17, 2021, 11:59PM </center>
 
 #### Links:
- - [**Sign-Up**](https://forms.gle/VrC7EFbLhy2YMEvk7)
- - [**Problem Set**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
- - [**Solution Submissions**](https://forms.gle/RXbA8CeKqibeRyGD7)
+ - <b><ins style="color:blue;">[Sign-Up](https://forms.gle/VrC7EFbLhy2YMEvk7)</ins></b>
+ - <b><ins style="color:blue;">[Problem Set](https://www.youtube.com/watch?v=dQw4w9WgXcQ)</ins></b>
+ - <b><ins style="color:blue;">[Solution Submissions](https://forms.gle/RXbA8CeKqibeRyGD7)</ins></b>
 
 #### Basic information:
  - *Number of intelligent beings per team:* 3 or fewer (meaning you can have additional members on your team if they are extremely stupid, e.g., your dog/cat/~~siblings~~)
