@@ -7,7 +7,7 @@
 
 ### Links:
  - <b><ins style="color:blue;">[Sign-Up](https://forms.gle/VrC7EFbLhy2YMEvk7)</ins></b>
- - <b><ins style="color:blue;">[Problem Set](https://www.youtube.com/watch?v=dQw4w9WgXcQ)</ins></b>
+ - <b><ins style="color:blue;">[Problem Set](https://drive.google.com/file/d/1xvo7ycvqMdhIdEJKEofBoJQlKInW5bO6/view?usp=sharing)</ins></b>
  - <b><ins style="color:blue;">[Solution Submissions](https://forms.gle/RXbA8CeKqibeRyGD7)</ins></b>
 
 ### Basic information:
