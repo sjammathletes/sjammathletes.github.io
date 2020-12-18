@@ -17,7 +17,7 @@
 
 #### Instructions:
 1. *Cheating:* No help from human beings outside your team is allowed. This means no whining to your mommy/daddy, no posting on discussion forums, etc. Exception: You’re allowed to use Wikipedia. (And other existing online sources too, although I doubt their credibility.)
-2. *Registration:* Click on the sign-up link above to sign your team up for the Olympiad.
+2. *Registration:* Click on the sign-up link above to sign your team up for the Olympiad. You may edit your registration information after you submit it up until the deadline.
     - A cool team name will be required during registration.
     - The grade level of the most aged member of your team will be required. This is to determine awards for different age groups
         - Babies: < Gr. 9
@@ -25,11 +25,13 @@
         - Senior Level: Gr. 11/12 (including Cégep Year 1)
         - Old People: > Gr. 12 (e.g., 5th year, Cégep Year 2)
     - Note that members can be from different schools, though each team can only represent one school. The school your team represents must be attended by at least one team member.
-3. *Problems:* Click on the link at the top of this page to access your problem, in case you missed the giant icon that’s impossible not to see.
+3. *Problems:* Click on the link at the top of this page to access the problems, in case you missed the giant blue letters that’s impossible not to see.
     - Mark breakdown: 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 + 12
     - The problem difficulty is weakly positively correlated with the number of points it is out of
-4. *Solution write-up and submission:*
-    - Scroll up to access the submission link. Submissions will trivially be electronic. Allowed formats are PDF, documents, and images. Both handwriting the solutions and typing the solutions are accepted.
+4. *Solution write-up and submission:* Scroll up to access the submission link. You may edit your submission up until the deadline.
+    - Submissions will trivially be electronic. Allowed formats are PDF, documents, and images. Both handwriting the solutions and typing the solutions are accepted.
+    - Registration information provided in the submissions must match the information provided in the sign-up form.
+    - It is left as an exercise to the reader to show that the solution to each problem must be uploaded as separate files.
     - A complete and correct solution is required for full marks on a problem.
 5. *Scoring:* Your mark will be of the form of \\(a + bi\\) (\\(a\\), \\(b\\) are real numbers and \\(i\\) satisfies \\(i^2 = -1\\)), which is determined as follows:
     - \\(a\\) (\\(0 \leq a \leq \sum_{k=1}^{12}\, k \\)) will be based on the mathematical rigor, completeness, and clarity of your solutions ~~and the coolness of your team name~~
