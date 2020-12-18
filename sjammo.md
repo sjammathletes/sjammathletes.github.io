@@ -31,8 +31,8 @@
 4. *Solution write-up and submission:*
     - Scroll up to access the submission link. Submissions will trivially be electronic. Allowed formats are PDF, documents, and images. Both handwriting the solutions and typing the solutions are accepted.
     - A complete and correct solution is required for full marks on a problem.
-5. *Scoring:* Your mark will be of the form of a + bi (a, b are real numbers and i satisfies i2 = -1), which is determined as follows:
-    - a (0 ≤ a ≤ \\( \sum_{k=1}^{12}\, k \\)) will be based on the mathematical rigor, completeness, and clarity of your solutions ~~and the coolness of your team name~~
+5. *Scoring:* Your mark will be of the form of \\(a + bi\\) (\\(a\\), \\(b\\) are real numbers and \\(i\\) satisfies \\(i^2 = -1\\)), which is determined as follows:
+    - \\(a\\) (\\(0 \leq a \leq \sum_{k=1}^{12}\, k \\)) will be based on the mathematical rigor, completeness, and clarity of your solutions ~~and the coolness of your team name~~
         - If your solution matches one of the official solutions, we’ll have a definitely legitimate marking scheme.
         - Otherwise, we’ll mark your solution like how English teachers mark your essays (i.e., assign a random mark) roughly according to the following rules:
             1. ~100% of the full marks for a complete and correct solution.
@@ -41,7 +41,7 @@
             4. ~30% of the full marks for significant progress.
             5. ~15% of the full marks for minor progress.
         - <i><ins>Therefore, even if you don’t solve a problem, still submit any interesting observations you noted--you may get part marks!</ins></i>
-    - b = 0 if you didn’t cheat, and b satisfies \\( (b^2 - 1)/(b - 1) = 2 \\) if you did cheat.
+    - \\(b = 0\\) if you didn’t cheat, and b satisfies \\( (b^2 - 1)/(b - 1) = 2 \\) if you did cheat.
 6. *Awards:*
     - Overall Gold/Silver/Bronze (awarded to the top 3 teams)
     - Overall Honorable Mentions (awarded to the teams ranked 4th to 6th)
