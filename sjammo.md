@@ -7,8 +7,8 @@
 
 ### Links:
  - <b><ins style="color:blue;">[Sign-Up](https://forms.gle/LbFGjmJu8spPPsuE7){: target="_blank"}</ins></b>
- - <b><ins style="color:blue;">Problem set (will be posted on Dec. 21)</ins></b>
- - <b><ins style="color:blue;">Solution Submissions (link will be available on Dec. 21)</ins></b>
+ - Problem set (will be posted on Dec. 21)
+ - Solution Submissions (link will be available on Dec. 21)
 
 ### Basic information:
  - *Number of intelligent beings per team:* 3 or fewer (meaning you can have additional members on your team if they are extremely stupid, e.g., your dog/cat/~~siblings~~)
