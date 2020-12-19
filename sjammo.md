@@ -13,7 +13,7 @@
 ### Basic information:
  - *Number of intelligent beings per team:* 3 or fewer (meaning you can have additional members on your team if they are extremely stupid, e.g., your dog/cat/~~siblings~~)
  - *Age restriction:* NONE
- - *Knowledge NOT required to solve the problems:* proof of the Riemann Hypothesis, proof that P=NP, proof of Goldbach’s conjecture, and other knowledge beyond the scope of the standard Gr. 12 Advanced Functions course. Exception: A few of the hardest problems may involve some standard math contest topics, which are readily available on Wikipedia.
+ - *Knowledge NOT required to solve the problems:* proof of the Riemann Hypothesis, proof that P=NP, proof of Goldbach’s conjecture, and other knowledge beyond the scope of the standard Gr. 12 Advanced Functions course. *Exception:* A few of the hardest problems may involve some standard math contest topics, which are readily available on Wikipedia.
 
 ### Instructions:
 #### TL;DR: Register, access the problems, and submit using the links above. Everything is super straightforward. You can’t get help from people outside your team. Please include your team name in the file name of each file you submit. HAVE FUN! ;D
