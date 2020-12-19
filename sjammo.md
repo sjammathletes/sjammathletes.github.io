@@ -52,8 +52,8 @@
     - Division-based Gold/Silver/Bronze (awarded to the top 3 teams in each age division *at each school*)
     - Best Team Name Award
     - Nicest-Looking Typed Solutions Award (awarded to those who use either LaTeX with Computer Modern font or MS Word with Comic Sans font to typeset their solutions)
-    - From SJAM Award (awarded to every team that contains at least one student from SJAM)
-    - From WCI Award (awarded to every team that contains at least one student from WCI)
+    - From SJAM Award (awarded to every team representing SJAM)
+    - From WCI Award (awarded to every team representing WCI)
 7. *Prizes:* TBD. However, to give you a sense of our current budget, we listed the monetary values of the prizes we are currently able to afford:
 
 |:--|:--|
