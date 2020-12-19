@@ -14,12 +14,12 @@ Here you will find all of the materials and resources for Mathletes.
 ### December 19, 2020
 Hey Mathletes!
 
-Sign-up for the 2nd SJAMMO is now open! Please go to the following link (<ins style="color:blue;">[https://sjammathletes.github.io/sjammo](https://sjammathletes.github.io/sjammo){: target="_blank"}</ins>) to sign up and view the instructions. (You may also click on the button in the top-right corner of this page.) Problems and the submission link will be posted on Dec. 21. Some detailed information was given in my previous post (scroll down).
+Sign-up for the 2nd SJAMMO is now open! Please go to the following link (<ins style="color:blue;">[https://sjammathletes.github.io/sjammo](https://sjammathletes.github.io/sjammo)</ins>) to sign up and view the instructions. (You may also click on the button in the top-right corner of this page.) Problems and the submission link will be posted on Dec. 21. Some detailed information was given in my previous post (scroll down).
 
 Have fun! :D
 
 ### December 17, 2020
-tl;dr: Second SJAM Mathematics Olympiad will be running starting next week and lasting for a month. Students participate in teams of up to 3 and submissions are electronic through our website (<ins style="color:blue;">[https://sjammathletes.github.io/](https://sjammathletes.github.io/){: target="_blank"}</ins>) which will soon be updated with more information and the problems posted.
+tl;dr: Second SJAM Mathematics Olympiad will be running starting next week and lasting for a month. Students participate in teams of up to 3 and submissions are electronic through our website (<ins style="color:blue;">[https://sjammathletes.github.io/](https://sjammathletes.github.io/)</ins>) which will soon be updated with more information and the problems posted.
 
 Hey Mathletes!
 
@@ -32,7 +32,7 @@ For those of you who don't know, we started organizing the SJAMMO in school year
 Unfortunately, 2020 is a special year, and we had to cancel the in-person SJAMMO2 for the school year 2019-2020. However, after p̶r̶o̶c̶r̶a̶s̶t̶i̶n̶a̶t̶i̶n̶g̶ dedicated hard work by us Mathletes execs, we are now finally ready to present SJAMMO2 in an online format!
 
 More detailed information will come soon. Meanwhile, here is some basic information:
-- All information (rules, instructions, awards) and registration/submission will be through our e̶x̶t̶r̶e̶m̶e̶l̶y̶ ̶o̶u̶t̶d̶a̶t̶e̶d̶ ̶website (<ins style="color:blue;">[https://sjammathletes.github.io/](https://sjammathletes.github.io/){: target="_blank"}</ins>)
+- All information (rules, instructions, awards) and registration/submission will be through our e̶x̶t̶r̶e̶m̶e̶l̶y̶ ̶o̶u̶t̶d̶a̶t̶e̶d̶ ̶website (<ins style="color:blue;">[https://sjammathletes.github.io/](https://sjammathletes.github.io/)</ins>)
 - As in the past, students will participate in teams of up to 3.
 - Different from the past, we're accepting people from other schools to participate as well. So if you have friends from other schools, please help spread the word! (Teams can also be formed from members across different schools, so that's a plus if you don't have any friends at SJAM but friends from other schools.)
 - Different from the past, the contest will run for an entire month (probably Dec. 21 to Jan. 17)
