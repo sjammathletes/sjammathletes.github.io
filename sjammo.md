@@ -6,9 +6,9 @@
 #### <center> Dec. 21, 2020, 12:00AM – Jan. 17, 2021, 11:59PM </center>
 
 ### Links:
- - <b><ins style="color:blue;">[Sign-Up](https://forms.gle/VrC7EFbLhy2YMEvk7){: target="_blank"}</ins></b>
- - <b><ins style="color:blue;">[Problem Set](assets/pdfs/2020-2021/SJAMMO/hi.pdf){: target="_blank"}</ins></b>
- - <b><ins style="color:blue;">[Solution Submissions](https://forms.gle/RXbA8CeKqibeRyGD7){: target="_blank"}</ins></b>
+ - <b><ins style="color:blue;">[Sign-Up](https://forms.gle/LbFGjmJu8spPPsuE7){: target="_blank"}</ins></b>
+ - <b><ins style="color:blue;">Problem set (will be posted on Dec. 21)</ins></b>
+ - <b><ins style="color:blue;">Solution Submissions (link will be available on Dec. 21)</ins></b>
 
 ### Basic information:
  - *Number of intelligent beings per team:* 3 or fewer (meaning you can have additional members on your team if they are extremely stupid, e.g., your dog/cat/~~siblings~~)
