@@ -13,7 +13,7 @@
 ### Basic information:
  - *Number of intelligent beings per team:* 3 or fewer (meaning you can have additional members on your team if they are extremely stupid, e.g., your dog/cat/~~siblings~~)
  - *Age restriction:* NONE
- - *Knowledge NOT required to solve the problems:* proof of the Riemann Hypothesis, proof that P=NP, proof of Goldbach’s conjecture, calculus, …
+ - *Knowledge NOT required to solve the problems:* proof of the Riemann Hypothesis, proof that P=NP, proof of Goldbach’s conjecture, and other knowledge beyond the scope of the standard Gr. 12 Advanced Functions course. Exception: A few of the hardest problems may involve some standard math contest topics, which are readily available on Wikipedia.
 
 ### Instructions:
 #### TL;DR: Register, access the problems, and submit using the links above. Everything is super straightforward. You can’t get help from people outside your team. Please include your team name in the file name of each file you submit. HAVE FUN! ;D
@@ -49,15 +49,12 @@
 6. *Awards:*
     - Overall Gold/Silver/Bronze (awarded to the top 3 teams)
     - Overall Honorable Mentions (awarded to the teams ranked 4th to 6th)
-    - Division-based Gold/Silver/Bronze (awarded to the top 3 teams in each age division)
-    - School-based Gold/Silver/Bronze (awarded to the top 3 teams from each participating school)
+    - Division-based Gold/Silver/Bronze (awarded to the top 3 teams in each age division *at each school*)
     - Best Team Name Award
     - Nicest-Looking Typed Solutions Award (awarded to those who use either LaTeX with Computer Modern font or MS Word with Comic Sans font to typeset their solutions)
-    - Neatest Handwriting Award
-    - Best Submission Award (for each of the twelve problems)
     - From SJAM Award (awarded to every team that contains at least one student from SJAM)
     - From WCI Award (awarded to every team that contains at least one student from WCI)
-7. *Nutritional Awards:* Tim Hortons electronic gift card with the monetary values corresponding to the awards, as described in the following table:
+7. *Prizes:* TBD. However, to give you a sense of our current budget, we listed the monetary values of the prizes we are currently able to afford:
 
 |:--|:--|
 | Overall Gold | $0.00 |
@@ -67,13 +64,8 @@
 | Division-based Gold | $0.00 |
 | Division-based Silver | $0.00 |
 | Division-based Bronze | $0.00 |
-| School-based Gold | $0.00 |
-| School-based Silver | $0.00 |
-| School-based Bronze | $0.00 |
 | Best Team Name Award | $0.00 |
 | Nicest-Looking Typed Solutions Award | $0.00 |
-| Neatest Handwriting Award | $0.00 |
-| Best Submission Award | $0.00 |
-| From SJAM Award | $0.01 in the form of cash instead of a gift card (sorry for budget constraint) |
-| From WCI Award | ~~$-1000000000000000000000000000000<br>00000000000000000000000000000000<br>000000000000000000000000000000.00<br> (we need marginal revenue to be equal to or greater than average variable costs to continue our operations in the short run)~~ <br> $0.00 |
+| From SJAM Award | $1000000000.00 |
+| From WCI Award | $-10000000000.00 |
 
