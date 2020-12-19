@@ -1,6 +1,7 @@
 ## <center> SJAM MATHLETES </center>
+#### <center> <i> presents </i> </center>
 <center>
-    <img src="assets/images/highlandernobg.png" alt="SJAM Logo">
+    <img src="assets/images/highlandernobg.png" alt="SJAM Logo" height="200">
 </center>
 ## <center> <i> Second SJAM Mathematical Olympiad </i> </center>
 #### <center> Dec. 21, 2020, 12:00AM – Jan. 17, 2021, 11:59PM </center>
