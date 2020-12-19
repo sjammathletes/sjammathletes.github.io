@@ -45,7 +45,7 @@
             4. ~30% of the full marks for significant progress.
             5. ~15% of the full marks for minor progress.
         - <i><ins>Therefore, even if you don’t solve a problem, still submit any interesting observations you noted--you may get part marks!</ins></i>
-    - \\(b = 0\\) if you didn’t cheat, and b satisfies \\( (b^2 - 1)/(b - 1) = 2 \\) if you did cheat.
+    - \\(b = 0\\) if you didn’t cheat, and \\(b\\) satisfies \\( (b^2 - 1)/(b - 1) = 2 \\) if you did cheat.
 6. *Awards:*
     - Overall Gold/Silver/Bronze (awarded to the top 3 teams)
     - Overall Honorable Mentions (awarded to the teams ranked 4th to 6th)
