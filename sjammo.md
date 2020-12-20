@@ -22,7 +22,7 @@ If you have any questions or comments, please email Zed (liz0075@wrdsb.ca), Tian
 ### Instructions:
 #### TL;DR: Register, access the problems, and submit using the links above. Everything is super straightforward. You can’t get help from people outside your team. Please include your team name in the file name of each file you submit. HAVE FUN! ;D
 1. *Cheating:* No help from human beings outside your team is allowed. This means no whining to your mommy/daddy, no posting on discussion forums, etc. Exception: You’re allowed to use Wikipedia. (And other existing online sources too, although I doubt their credibility.)
-2. *Registration:* Click on the sign-up link above to sign your team up for the Olympiad. You may edit your registration information after you submit it up until the deadline.
+2. *Registration:* Click on the sign-up link above to sign your team up for the Olympiad <i><ins>any time before the submission deadline (Jan. 17 at 11:59PM)</ins></i>. You may edit your registration information after you submit it up until the deadline.
     - A cool team name will be required during registration.
     - The grade level of the most aged member of your team will be required. This is to determine awards for different age groups
         - Babies: < Gr. 9
