@@ -11,6 +11,9 @@
  - Problem set (will be posted on Dec. 21)
  - Solution submissions (link will be available on Dec. 21)
 
+### Contact information:
+If you have any questions or comments, please email Zed (liz0075@wrdsb.ca), Tian (chent4452@wrdsb.ca), or Biscuit (bichc3017@wrdsb.ca). We'll be happy to help :D
+
 ### Basic information:
  - *Number of intelligent beings per team:* 3 or fewer (meaning you can have additional members on your team if they are extremely stupid, e.g., your dog/cat/~~siblings~~)
  - *Age restriction:* NONE
