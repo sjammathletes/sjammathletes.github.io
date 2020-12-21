@@ -31,7 +31,7 @@ If you have any questions or comments, please email Zed (liz0075@wrdsb.ca), Tian
         - Old People: > Gr. 12 (e.g., 5th year, Cégep Year 2)
     - Note that members can be from different schools, though each team can only represent one school. The school your team represents must be attended by at least one team member (i.e., the coolest team member).
 3. *Problems:* Click on the link at the top of this page to access the problems, in case you missed the giant blue letters that’s impossible not to see.
-    - Mark breakdown: \\(\sum_{k=1}^{12}\, k\\)
+    - Mark breakdown: \\(\sum_{k=1}^{12} k\\)
     - The problem difficulty is weakly positively correlated with the number of points it is out of
 4. *Solution write-up and submission:* Scroll up to access the submission link. You may edit your submission up until the deadline.
     - Submissions will trivially be electronic. Allowed formats are PDF, documents, and images. Both handwriting the solutions and typing the solutions are accepted.
@@ -40,7 +40,7 @@ If you have any questions or comments, please email Zed (liz0075@wrdsb.ca), Tian
     - <i><ins>Please include your team name in the file names of your submission.</ins></i>
     - A complete and correct solution is required for full marks on a problem.
 5. *Scoring:* Your mark will be of the form of \\(a + bi\\) (\\(a\\), \\(b\\) are real numbers and \\(i\\) satisfies \\(i^2 = -1\\)), which is determined as follows:
-    - \\(a\\) (\\(0 \leq a \leq \sum_{k=1}^{12}\, k \\)) will be based on the mathematical rigor, completeness, and clarity of your solutions ~~and the coolness of your team name~~
+    - \\(a\\) (\\(0 \leq a \leq \sum_{k=1}^{12} k \\)) will be based on the mathematical rigor, completeness, and clarity of your solutions ~~and the coolness of your team name~~
         - If your solution matches one of the official solutions, we’ll have a definitely legitimate marking scheme.
         - Otherwise, we’ll mark your solution ~~like how English teachers mark your essays (i.e., assign a random mark)~~ roughly according to the following rules:
             1. ~100% of the full marks for a complete and correct solution.
