@@ -48,6 +48,8 @@ If you have any questions or comments, please email Zed (liz0075@wrdsb.ca), Tian
             3. ~50% of the full marks for a solution with a major flaw.
             4. ~30% of the full marks for significant progress.
             5. ~15% of the full marks for minor progress.
+            6. ~0% of the full marks for good jokes and memes.
+            7. ~-15% of the full marks for bad jokes and memes.
         - <i><ins>Therefore, even if you don’t solve a problem, still submit any interesting observations you noted--you may get part marks!</ins></i>
     - \\(b = 0\\) if you didn’t cheat, and \\(b\\) satisfies \\( (b^2 - 1)/(b - 1) = 2 \\) if you did cheat.
 6. *Awards:*
