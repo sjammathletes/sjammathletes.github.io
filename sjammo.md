@@ -23,15 +23,15 @@ If you have any questions or comments, please email Zed (liz0075@wrdsb.ca), Tian
 #### TL;DR: Register, access the problems, and submit using the links above. Everything is super straightforward. You can’t get help from people outside your team. Please include your team name in the file name of each file you submit. HAVE FUN! ;D
 1. *Cheating:* No help from human beings outside your team is allowed. This means no whining to your mommy/daddy, no posting on discussion forums, etc. Exception: You’re allowed to use Wikipedia. (And other existing online sources too, although I doubt their credibility.)
 2. *Registration:* Click on the sign-up link above to sign your team up for the Olympiad <i><ins>any time before the submission deadline (Jan. 17 at 11:59PM)</ins></i>. You may edit your registration information after you submit it up until the deadline.
-    - A cool team name will be required during registration.
-    - The grade level of the most aged member of your team will be required. This is to determine awards for different age groups
+    - A cool team name will be required during registration. ~~Teams with boring names will be disqualified.~~
+    - The grade level of the most aged member of your team will be required. This is to determine awards for different age groups:
         - Babies: < Gr. 9
         - Junior Level: Gr. 9/10
         - Senior Level: Gr. 11/12 (including Cégep Year 1)
         - Old People: > Gr. 12 (e.g., 5th year, Cégep Year 2)
-    - Note that members can be from different schools, though each team can only represent one school. The school your team represents must be attended by at least one team member.
+    - Note that members can be from different schools, though each team can only represent one school. The school your team represents must be attended by at least one team member (i.e., the coolest team member).
 3. *Problems:* Click on the link at the top of this page to access the problems, in case you missed the giant blue letters that’s impossible not to see.
-    - Mark breakdown: 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 + 12
+    - Mark breakdown: \\(\sum_{k=1}^{12}\, k\\)
     - The problem difficulty is weakly positively correlated with the number of points it is out of
 4. *Solution write-up and submission:* Scroll up to access the submission link. You may edit your submission up until the deadline.
     - Submissions will trivially be electronic. Allowed formats are PDF, documents, and images. Both handwriting the solutions and typing the solutions are accepted.
@@ -42,7 +42,7 @@ If you have any questions or comments, please email Zed (liz0075@wrdsb.ca), Tian
 5. *Scoring:* Your mark will be of the form of \\(a + bi\\) (\\(a\\), \\(b\\) are real numbers and \\(i\\) satisfies \\(i^2 = -1\\)), which is determined as follows:
     - \\(a\\) (\\(0 \leq a \leq \sum_{k=1}^{12}\, k \\)) will be based on the mathematical rigor, completeness, and clarity of your solutions ~~and the coolness of your team name~~
         - If your solution matches one of the official solutions, we’ll have a definitely legitimate marking scheme.
-        - Otherwise, we’ll mark your solution like how English teachers mark your essays (i.e., assign a random mark) roughly according to the following rules:
+        - Otherwise, we’ll mark your solution ~~like how English teachers mark your essays (i.e., assign a random mark)~~ roughly according to the following rules:
             1. ~100% of the full marks for a complete and correct solution.
             2. ~85% of the full marks for a solution with a minor flaw.
             3. ~50% of the full marks for a solution with a major flaw.
