@@ -8,7 +8,7 @@
 
 ### Links:
  - <b><ins style="color:blue;">[Sign-up](https://forms.gle/LbFGjmJu8spPPsuE7){: target="_blank"}</ins></b> (submit only one sign-up form per team, please!)
- - Problem set (will be posted on Dec. 21)
+ - <b><ins style="color:blue;">[Problem set](/assets/pdfs/2020-2021/SJAMMO/sjammo2.pdf){: target="_blank"}</ins></b>
  - Solution submissions (link will be available on Dec. 21)
 
 ### Contact information:
