@@ -9,7 +9,7 @@
 ### Links:
  - <b><ins style="color:blue;">[Sign-up](https://forms.gle/LbFGjmJu8spPPsuE7){: target="_blank"}</ins></b>: Submit only one sign-up form per team, please!
  - <b><ins style="color:blue;">[Problem set](/assets/pdfs/2020-2021/SJAMMO/sjammo2.pdf){: target="_blank"}</ins></b>: Have fun! If you have a question, don't hesitate to shoot one of us an email (see below for contact info) :) *REMEMBER TO SAVE YOUR SOLUTIONS AS SEPARATE FILES&mdash;YOU WILL HAVE TO UPLOAD ONE FILE FOR* EACH *PROBLEM DURING THE SUBMISSION PROCESS.*
- - <b><ins style="color:blue;">[Solution submission](https://forms.gle/EwWYkKmz5Z3oTBmK8){: target="_blank"}</ins></b>: You made it! Please submit only one submission form per team, please! We suggest putting all your solutions in a shared Google Drive folder, and have one team member upload the solutions directly from Google Drive into the Google Form :D
+ - <b><ins style="color:blue;">[Solution submission](https://forms.gle/EwWYkKmz5Z3oTBmK8){: target="_blank"}</ins></b>: You made it! Submit only one submission form per team, please! We suggest putting all your solutions in a shared Google Drive folder, and have one team member upload the solutions directly from Google Drive into the Google Form :D
 
 ### Contact information:
 If you have any questions or comments, please email Zed (liz0075@wrdsb.ca), Tian (chent4452@wrdsb.ca), or Biscuit (bichc3017@wrdsb.ca). We'll be happy to help :D
