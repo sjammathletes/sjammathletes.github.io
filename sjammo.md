@@ -6,6 +6,8 @@
 ## <center> <i> Second SJAM Mathematical Olympiad </i> </center>
 #### <center> Dec. 21, 2020, 12:00AM – Jan. 17, 2021, 11:59PM </center>
 
+### <b><ins style="color:blue;">REMINDER: Solution submissions due tonight at 11:59 PM EST!</ins></b>
+
 ### Links:
  - <b><ins style="color:blue;">[Sign-up](https://forms.gle/LbFGjmJu8spPPsuE7){: target="_blank"}</ins></b>: Submit only one sign-up form per team, please!
  - <b><ins style="color:blue;">[Problem set](/assets/pdfs/2020-2021/SJAMMO/sjammo2.pdf){: target="_blank"}</ins></b>: Have fun! If you have a question, don't hesitate to shoot one of us an email (see below for contact info) :) *REMEMBER TO SAVE YOUR SOLUTIONS AS SEPARATE FILES&mdash;YOU WILL HAVE TO UPLOAD ONE FILE FOR* EACH *PROBLEM DURING THE SUBMISSION PROCESS.*
