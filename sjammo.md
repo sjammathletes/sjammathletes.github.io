@@ -6,7 +6,7 @@
 ## <center> <i> Second SJAM Mathematical Olympiad </i> </center>
 #### <center> Dec. 21, 2020, 12:00AM – Jan. 17, 2021, 11:59PM </center>
 
-### <b><ins style="color:red;">REMINDER: Solution submissions due tonight at 11:59 PM EST!</ins></b>
+### <b><ins style="color:red;">The deadline has passed; submissions are no longer accepted.</ins></b>
 
 ### Links:
  - <b><ins style="color:blue;">[Sign-up](https://forms.gle/LbFGjmJu8spPPsuE7){: target="_blank"}</ins></b>: Submit only one sign-up form per team, please!
