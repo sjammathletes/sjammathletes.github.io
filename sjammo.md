@@ -10,7 +10,7 @@
 <i> For participants: please check your email for feedback on your submission :) </i>
 <div class="table-wrapper" markdown="block">
 
-This year we had 22 teams who signed up and 9 teams who made a submission before the deadline. The top 6 teams are listed below:
+This year we had 22 teams who signed up and 9 teams who made a submission before the deadline. The top 6 teams are listed below. (The scores in the parentheses indicate maximum possible scores.)
 
 |Team name|Overall&nbsp;award|Division&#8209;based&nbsp;award|Total&nbsp;score (78)|Q1 (1)|Q2 (2)|Q3 (3)|Q4 (4)|Q5 (5)|Q6 (6)|Q7 (7)|Q8 (8)|Q9 (9)|Q10 (10)|Q11 (11)|Q12 (12)|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
