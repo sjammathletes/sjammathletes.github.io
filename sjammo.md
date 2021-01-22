@@ -14,7 +14,7 @@
 | Xiang | 1 | 2 | 2.5 | 3.5 | 3 | 5 | 2 | 8 | 3 | 7.5 | 0 | 12 | 49.5 | Silver | Senior Level: Gold |
 | REQUIRED | 1 | 2 | 3 | 3.5 | 5 | 6 | 2 | 7.5 | 6 | - | - | - | 36 | Bronze | Babies: Gold |
 | Potato | 1 | 1.5 | 2 | 1 | 0 | 6 | 2 | 1.5 | 9 | - | - | - | 24 | Honorable Mention | Junior Level: Gold |
-| Zed Li's Knees | 1 | 2 | 3 | 0 | 1.5 | 6 | - | - | - | - | - | - | Honorable Mention | Senior Level: Silver |
+| Zed Li's Knees | 1 | 2 | 3 | 0 | 1.5 | 6 | - | - | - | - | - | - | 13.5 | Honorable Mention | Senior Level: Silver |
 | Logic Flaw | 0.5 | 2 | 2.5 | - | 0 | - | 2 | 4 | 0 | - | - | - | 11 | Honorable Mention | Junior Level: Silver |
 | SKY | 1 | 1.5 | 1 | 0 | 1 | 0 | - | - |  0 | 0 | - | 0 | 4.5 | - | Junior Level: Bronze |
 | Derek.'S Group | 1 | 1 | 0.5 | - | 1.5 | - | 0 | 0 | 0 | 0 | 0 | 0 | 4 | - | Junior Level: Honorable Mention |
