@@ -10,17 +10,17 @@
 <i> For participants: please check your email for feedback on your submission :) </i>
 <div class="table-wrapper" markdown="block">
 
-|Team name|Q1|Q2|Q3|Q4|Q5|Q6|Q7|Q8|Q9|Q10|Q11|Q12|Total score|Overall award|Division-based award|
+|Team name|Overall award|Division-based award|Total score|Q1|Q2|Q3|Q4|Q5|Q6|Q7|Q8|Q9|Q10|Q11|Q12|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| I'd li-ke so-me mo-re caw-fee | 1 | 2 | 3 | 3.5 | 1 | 6 | 7 | 6.5 | 9 | 1.5 | 1 | 11 | 52.5 | Gold | Old People: Gold |
-| Xiang | 1 | 2 | 2.5 | 3.5 | 3 | 5 | 2 | 8 | 3 | 7.5 | 0 | 12 | 49.5 | Silver | Senior Level: Gold |
-| REQUIRED | 1 | 2 | 3 | 3.5 | 5 | 6 | 2 | 7.5 | 6 | - | - | - | 36 | Bronze | Babies: Gold |
-| Potato | 1 | 1.5 | 2 | 1 | 0 | 6 | 2 | 1.5 | 9 | - | - | - | 24 | Honorable Mention | Junior Level: Gold |
-| Zed Li's Knees | 1 | 2 | 3 | 0 | 1.5 | 6 | - | - | - | - | - | - | 13.5 | Honorable Mention | Senior Level: Silver |
-| Logic Flaw | 0.5 | 2 | 2.5 | - | 0 | - | 2 | 4 | 0 | - | - | - | 11 | Honorable Mention | Junior Level: Silver |
-| SKY | 1 | 1.5 | 1 | 0 | 1 | 0 | - | - |  0 | 0 | - | 0 | 4.5 | - | Junior Level: Bronze |
-| Derek.'S Group | 1 | 1 | 0.5 | - | 1.5 | - | 0 | 0 | 0 | 0 | 0 | 0 | 4 | - | Junior Level: Honorable Mention |
-| shiqingxuan-supremacy | 0.25 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1.25 | - | Junior Level: Honorable Mention |
+| I'd li-ke so-me mo-re caw-fee | Gold | Old People: Gold | 52.5 | 1 | 2 | 3 | 3.5 | 1 | 6 | 7 | 6.5 | 9 | 1.5 | 1 | 11 |
+| Xiang | Silver | Senior Level: Gold | 49.5 | 1 | 2 | 2.5 | 3.5 | 3 | 5 | 2 | 8 | 3 | 7.5 | 0 | 12 |
+| REQUIRED | Bronze | Babies: Gold | 36 | 1 | 2 | 3 | 3.5 | 5 | 6 | 2 | 7.5 | 6 | - | - | - |
+| Potato | Honorable Mention | Junior Level: Gold | 24 | 1 | 1.5 | 2 | 1 | 0 | 6 | 2 | 1.5 | 9 | - | - | - |
+| Zed Li's Knees | Honorable Mention | Senior Level: Silver | 13.5 | 1 | 2 | 3 | 0 | 1.5 | 6 | - | - | - | - | - | - |
+| Logic Flaw | Honorable Mention | Junior Level: Silver | 11 | 0.5 | 2 | 2.5 | - | 0 | - | 2 | 4 | 0 | - | - | - |
+| SKY | - | Junior Level: Bronze | 4.5 | 1 | 1.5 | 1 | 0 | 1 | 0 | - | - |  0 | 0 | - | 0 |
+| Derek.'S Group | - | Junior Level: Honorable Mention | 4 | 1 | 1 | 0.5 | - | 1.5 | - | 0 | 0 | 0 | 0 | 0 | 0 |
+| shiqingxuansupremacy | - | Junior Level: Honorable Mention | 1.25 | 0.25 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 </div>
 
