@@ -17,6 +17,10 @@ body {
   min-height: calc(100% - 100px);
 }
 
+.table-wrapper {
+  overflow-x: scroll;
+}
+
 .wrapper {
   width:740px;
   margin:0 auto;

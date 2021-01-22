@@ -8,6 +8,7 @@
 
 ### Results:
 <i> For participants: please check your email for feedback on your submission :) </i>
+<div class="table-wrapper" markdown="block">
 
 |Team name|Q1|Q2|Q3|Q4|Q5|Q6|Q7|Q8|Q9|Q10|Q11|Q12|Total score|Overall award|Division-based award|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -21,6 +22,7 @@
 | Derek.'S Group | 1 | 1 | 0.5 | - | 1.5 | - | 0 | 0 | 0 | 0 | 0 | 0 | 4 | - | Junior Level: Honorable Mention |
 | shiqingxuan-supremacy | 0.25 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1.25 | - | Junior Level: Honorable Mention |
 
+</div>
 
 ### Links:
  - <b><ins style="color:blue;">[Problem set](/assets/pdfs/2020-2021/SJAMMO/sjammo2.pdf){: target="_blank"}</ins></b>
