@@ -19,7 +19,7 @@
 | Logic Flaw | 0.5 | 2 | 2.5 | - | 0 | - | 2 | 4 | 0 | - | - | - | 11 | Honorable Mention | Junior Level: Silver |
 | SKY | 1 | 1.5 | 1 | 0 | 1 | 0 | - | - |  0 | 0 | - | 0 | 4.5 | - | Junior Level: Bronze |
 | Derek.'S Group | 1 | 1 | 0.5 | - | 1.5 | - | 0 | 0 | 0 | 0 | 0 | 0 | 4 | - | Junior Level: Honorable Mention |
-| shiqingxuan supremacy | 0.25 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1.25 | - | Junior Level: Honorable Mention |
+| shiqingxuan-supremacy | 0.25 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1.25 | - | Junior Level: Honorable Mention |
 
 
 ### Links:
