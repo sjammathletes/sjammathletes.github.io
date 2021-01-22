@@ -18,9 +18,9 @@
 | Potato | Honorable Mention | Junior Level: Gold | 24 | 1 | 1.5 | 2 | 1 | 0 | 6 | 2 | 1.5 | 9 | - | - | - |
 | Zed Li's Knees | Honorable Mention | Senior Level: Silver | 13.5 | 1 | 2 | 3 | 0 | 1.5 | 6 | - | - | - | - | - | - |
 | Logic Flaw | Honorable Mention | Junior Level: Silver | 11 | 0.5 | 2 | 2.5 | - | 0 | - | 2 | 4 | 0 | - | - | - |
-| SKY | - | Junior Level: Bronze | 4.5 | 1 | 1.5 | 1 | 0 | 1 | 0 | - | - |  0 | 0 | - | 0 |
-| Derek.'S Group | - | Junior Level: Honorable Mention | 4 | 1 | 1 | 0.5 | - | 1.5 | - | 0 | 0 | 0 | 0 | 0 | 0 |
-| shiqingxuansupremacy | - | Junior Level: Honorable Mention | 1.25 | 0.25 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+[//]: <> | SKY | - | Junior Level: Bronze | 4.5 | 1 | 1.5 | 1 | 0 | 1 | 0 | - | - |  0 | 0 | - | 0 |
+[//]: <> | Derek.'S Group | - | Junior Level: Honorable Mention | 4 | 1 | 1 | 0.5 | - | 1.5 | - | 0 | 0 | 0 | 0 | 0 | 0 |
+[//]: <> | shiqingxuansupremacy | - | Junior Level: Honorable Mention | 1.25 | 0.25 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 </div>
 
