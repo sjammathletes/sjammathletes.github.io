@@ -10,7 +10,7 @@
 <i> For participants: please check your email for feedback on your submission :) </i>
 
 |Team name|Q1|Q2|Q3|Q4|Q5|Q6|Q7|Q8|Q9|Q10|Q11|Q12|Total score|Overall award|Division-based award|
-|--:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | I'd li-ke so-me mo-re caw-fee | 1 | 2 | 3 | 3.5 | 1 | 6 | 7 | 6.5 | 9 | 1.5 | 1 | 11 | 52.5 | Gold | Old People: Gold |
 | Xiang | 1 | 2 | 2.5 | 3.5 | 3 | 5 | 2 | 8 | 3 | 7.5 | 0 | 12 | 49.5 | Silver | Senior Level: Gold |
 | REQUIRED | 1 | 2 | 3 | 3.5 | 5 | 6 | 2 | 7.5 | 6 | - | - | - | 36 | Bronze | Babies: Gold |
