@@ -10,7 +10,7 @@
 <i> For participants: please check your email for feedback on your submission :) </i>
 <div class="table-wrapper" markdown="block">
 
-|Team name|Overall award|Division&#8209;based award|Total score|Q1|Q2|Q3|Q4|Q5|Q6|Q7|Q8|Q9|Q10|Q11|Q12|
+|Team name|Overall&nbsp;award|Division&#8209;based&nbsp;award|Total score|Q1|Q2|Q3|Q4|Q5|Q6|Q7|Q8|Q9|Q10|Q11|Q12|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | I'd li-ke so-me mo-re caw-fee | Gold | Old People: Gold | 52.5 | 1 | 2 | 3 | 3.5 | 1 | 6 | 7 | 6.5 | 9 | 1.5 | 1 | 11 |
 | Xiang | Silver | Senior Level: Gold | 49.5 | 1 | 2 | 2.5 | 3.5 | 3 | 5 | 2 | 8 | 3 | 7.5 | 0 | 12 |
