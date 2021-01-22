@@ -12,9 +12,9 @@
 
 This year we had 22 teams who signed up and 9 teams who made a submission before the deadline. The top 6 teams are listed below:
 
-|Team name|Overall&nbsp;award|Division&#8209;based&nbsp;award|Total score|Q1|Q2|Q3|Q4|Q5|Q6|Q7|Q8|Q9|Q10|Q11|Q12|
+|Team name|Overall&nbsp;award|Division&#8209;based&nbsp;award|Total&nbsp;score (78)|Q1 (1)|Q2 (2)|Q3 (3)|Q4 (4)|Q5 (5)|Q6 (6)|Q7 (7)|Q8 (8)|Q9 (9)|Q10 (10)|Q11 (11)|Q12 (12)|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| I'd li-ke so-me mo-re caw-fee | Gold&nbsp;Award | Old People: Gold | 52.5 | 1 | 2 | 3 | 3.5 | 1 | 6 | 7 | 6.5 | 9 | 1.5 | 1 | 11 |
+| I'd&nbsp;li&#8209;ke&nbsp;so&#8209;me&nbsp;mo&#8209;re&nbsp;caw&#8209;fee | Gold&nbsp;Award | Old People: Gold | 52.5 | 1 | 2 | 3 | 3.5 | 1 | 6 | 7 | 6.5 | 9 | 1.5 | 1 | 11 |
 | Xiang | Silver&nbsp;Award | Senior Level: Gold | 49.5 | 1 | 2 | 2.5 | 3.5 | 3 | 5 | 2 | 8 | 3 | 7.5 | 0 | 12 |
 | REQUIRED | Bronze&nbsp;Award | Babies: Gold | 36 | 1 | 2 | 3 | 3.5 | 5 | 6 | 2 | 7.5 | 6 | - | - | - |
 | Potato | Honorable&nbsp;Mention | Junior Level: Gold | 24 | 1 | 1.5 | 2 | 1 | 0 | 6 | 2 | 1.5 | 9 | - | - | - |
