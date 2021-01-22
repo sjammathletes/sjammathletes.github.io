@@ -10,22 +10,24 @@
 <i> For participants: please check your email for feedback on your submission :) </i>
 <div class="table-wrapper" markdown="block">
 
+This year we had 22 teams who signed up and 9 teams who made a submission before the deadline. The top 6 teams are listed below:
+
 |Team name|Overall&nbsp;award|Division&#8209;based&nbsp;award|Total score|Q1|Q2|Q3|Q4|Q5|Q6|Q7|Q8|Q9|Q10|Q11|Q12|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | I'd li-ke so-me mo-re caw-fee | Gold | Old People: Gold | 52.5 | 1 | 2 | 3 | 3.5 | 1 | 6 | 7 | 6.5 | 9 | 1.5 | 1 | 11 |
 | Xiang | Silver | Senior Level: Gold | 49.5 | 1 | 2 | 2.5 | 3.5 | 3 | 5 | 2 | 8 | 3 | 7.5 | 0 | 12 |
 | REQUIRED | Bronze | Babies: Gold | 36 | 1 | 2 | 3 | 3.5 | 5 | 6 | 2 | 7.5 | 6 | - | - | - |
-| Potato | Honorable Mention | Junior Level: Gold | 24 | 1 | 1.5 | 2 | 1 | 0 | 6 | 2 | 1.5 | 9 | - | - | - |
-| Zed Li's Knees | Honorable Mention | Senior Level: Silver | 13.5 | 1 | 2 | 3 | 0 | 1.5 | 6 | - | - | - | - | - | - |
-| Logic Flaw | Honorable Mention | Junior Level: Silver | 11 | 0.5 | 2 | 2.5 | - | 0 | - | 2 | 4 | 0 | - | - | - |
+| Potato | Honorable&nbsp;Mention | Junior Level: Gold | 24 | 1 | 1.5 | 2 | 1 | 0 | 6 | 2 | 1.5 | 9 | - | - | - |
+| Zed Li's Knees | Honorable&nbsp;Mention | Senior Level: Silver | 13.5 | 1 | 2 | 3 | 0 | 1.5 | 6 | - | - | - | - | - | - |
+| Logic Flaw | Honorable&nbsp;Mention | Junior Level: Silver | 11 | 0.5 | 2 | 2.5 | - | 0 | - | 2 | 4 | 0 | - | - | - |
 
 </div>
 
 <br>
 
-### Links:
- - <b><ins style="color:blue;">[Problem set](/assets/pdfs/2020-2021/SJAMMO/sjammo2.pdf){: target="_blank"}</ins></b>
- - Official solutions (will be published once bad English/typos are fixed and Zed's LaTeX compiler is fixed)
+### <b><ins style="color:blue;">[Problem set](/assets/pdfs/2020-2021/SJAMMO/sjammo2.pdf){: target="_blank"}</ins></b>
+
+### Official solutions (will be published once bad English/typos are fixed and Zed's LaTeX compiler is fixed)
 
 ### Contact information:
 If you have any questions or comments, please email Zed (liz0075@wrdsb.ca), Tian (chent4452@wrdsb.ca), or Biscuit (bichc3017@wrdsb.ca). We'll be happy to help :D
