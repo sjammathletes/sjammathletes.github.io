@@ -24,6 +24,8 @@
 
 </div>
 
+<br>
+
 ### Links:
  - <b><ins style="color:blue;">[Problem set](/assets/pdfs/2020-2021/SJAMMO/sjammo2.pdf){: target="_blank"}</ins></b>
  - Official solutions (will be published once bad English/typos are fixed and Zed's LaTeX compiler is fixed)
