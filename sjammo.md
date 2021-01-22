@@ -6,12 +6,24 @@
 ## <center> <i> Second SJAM Mathematical Olympiad </i> </center>
 #### <center> Dec. 21, 2020, 12:00AM – Jan. 17, 2021, 11:59PM </center>
 
-### <b><ins style="color:red;">The deadline has passed; submissions are no longer accepted.</ins></b>
+### Results:
+<i> For participants: please check your email for feedback on your submission :) </i>
+|Team name|Q1|Q2|Q3|Q4|Q5|Q6|Q7|Q8|Q9|Q10|Q11|Q12|Total score|Overall award|Division-based award|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| I'd li-ke so-me mo-re caw-fee | 1 | 2 | 3 | 3.5 | 1 | 6 | 7 | 6.5 | 9 | 1.5 | 1 | 11 | 52.5 | Gold | Old People: Gold |
+| Xiang | 1 | 2 | 2.5 | 3.5 | 3 | 5 | 2 | 8 | 3 | 7.5 | 0 | 12 | 49.5 | Silver | Senior Level: Gold |
+| REQUIRED | 1 | 2 | 3 | 3.5 | 5 | 6 | 2 | 7.5 | 6 | - | - | - | 36 | Bronze | Babies: Gold |
+| Potato | 1 | 1.5 | 2 | 1 | 0 | 6 | 2 | 1.5 | 9 | - | - | - | 24 | Honorable Mention | Junior Level: Gold |
+| Zed Li's Knees | 1 | 2 | 3 | 0 | 1.5 | 6 | - | - | - | - | - | - | Honorable Mention | Senior Level: Silver |
+| Logic Flaw | 0.5 | 2 | 2.5 | - | 0 | - | 2 | 4 | 0 | - | - | - | 11 | Honorable Mention | Junior Level: Silver |
+| SKY | 1 | 1.5 | 1 | 0 | 1 | 0 | - | - |  0 | 0 | - | 0 | 4.5 | - | Junior Level: Bronze |
+| Derek.'S Group | 1 | 1 | 0.5 | - | 1.5 | - | 0 | 0 | 0 | 0 | 0 | 0 | 4 | - | Junior Level: Honorable Mention |
+| shiqingxuansupremacy | 0.25 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1.25 | - | Junior Level: Honorable Mention |
+
 
 ### Links:
- - <b><ins style="color:blue;">[Sign-up](https://forms.gle/LbFGjmJu8spPPsuE7){: target="_blank"}</ins></b>: Submit only one sign-up form per team, please!
- - <b><ins style="color:blue;">[Problem set](/assets/pdfs/2020-2021/SJAMMO/sjammo2.pdf){: target="_blank"}</ins></b>: Have fun! If you have a question, don't hesitate to shoot one of us an email (see below for contact info) :) *REMEMBER TO SAVE YOUR SOLUTIONS AS SEPARATE FILES&mdash;YOU WILL HAVE TO UPLOAD ONE FILE FOR* EACH *PROBLEM DURING THE SUBMISSION PROCESS.*
- - <b><ins style="color:blue;">[Solution submission](https://forms.gle/EwWYkKmz5Z3oTBmK8){: target="_blank"}</ins></b>: You made it! Submit only one submission form per team, please! We suggest putting all your solutions in a shared Google Drive folder, and have one team member upload the solutions directly from Google Drive into the Google Form :D
+ - <b><ins style="color:blue;">[Problem set](/assets/pdfs/2020-2021/SJAMMO/sjammo2.pdf){: target="_blank"}</ins></b>
+ - Official solutions (will be published once bad English/typos are fixed and Zed's LaTeX compiler is fixed)
 
 ### Contact information:
 If you have any questions or comments, please email Zed (liz0075@wrdsb.ca), Tian (chent4452@wrdsb.ca), or Biscuit (bichc3017@wrdsb.ca). We'll be happy to help :D
@@ -57,23 +69,7 @@ If you have any questions or comments, please email Zed (liz0075@wrdsb.ca), Tian
 6. *Awards:*
     - Overall Gold/Silver/Bronze (awarded to the top 3 teams)
     - Overall Honorable Mentions (awarded to the teams ranked 4th to 6th)
-    - Division-based Gold/Silver/Bronze (awarded to the top 3 teams in each age division *at each school*)
-    - Best Team Name Award
-    - Nicest-Looking Typed Solutions Award (awarded to those who use either LaTeX with Computer Modern font or MS Word with Comic Sans font to typeset their solutions)
-    - From SJAM Award (awarded to every team representing SJAM)
-    - From WCI Award (awarded to every team representing WCI)
-7. *Prizes:* TBD. However, to give you a sense of our current budget, we listed the monetary values of the prizes we are currently able to afford:
-
-|:--|:--|
-| Overall Gold | $0.00 |
-| Overall Silver | $0.00 |
-| Overall Bronze | $0.00 |
-| Overall Honorable Mentions | $0.00 |
-| Division-based Gold | $0.00 |
-| Division-based Silver | $0.00 |
-| Division-based Bronze | $0.00 |
-| Best Team Name Award | $0.00 |
-| Nicest-Looking Typed Solutions Award | $0.00 |
-| From SJAM Award | $1000000000.00 |
-| From WCI Award | $-10000000000.00 |
+    - Division-based Gold/Silver/Bronze (awarded to the top 3 teams in each age division)
+    - Division-based Honorable Mentions (awarded to the teams ranked 4th to 6th in each age division)
+7. *Prizes:* None cuz we're broke.
 
