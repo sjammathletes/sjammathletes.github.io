@@ -27,7 +27,7 @@ This year we had 22 teams who signed up and 9 teams who made a submission before
 
 ### <b><ins style="color:blue;">[Problem set](/assets/pdfs/2020-2021/SJAMMO/sjammo2.pdf){: target="_blank"}</ins></b>
 
-### Official solutions (will be published once bad English/typos are fixed and Zed's LaTeX compiler is fixed)
+### <b><ins style="color:blue;">[Official solutions](/assets/pdfs/2020-2021/SJAMMO/sjammo2sol.pdf){: target="_blank"}</ins></b>
 
 ### Contact information:
 If you have any questions or comments, please email Zed (liz0075@wrdsb.ca), Tian (chent4452@wrdsb.ca), or Biscuit (bichc3017@wrdsb.ca). We'll be happy to help :D
