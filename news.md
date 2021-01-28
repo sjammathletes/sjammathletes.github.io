@@ -1,5 +1,9 @@
 # Mathletes News
 
+## Janury 27, 2021
+
+Solutions and results for the 2nd SJAM Math Olympiad are out! You may find them on our <ins style="color:blue;">[official website](https://sjammathletes.github.io/sjammo)</ins> :)
+
 ## December 21, 2020
 Hey Mathletes!
 
