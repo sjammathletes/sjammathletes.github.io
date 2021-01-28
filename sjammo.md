@@ -6,28 +6,28 @@
 ## <center> <i> Second SJAM Mathematical Olympiad </i> </center>
 #### <center> Dec. 21, 2020, 12:00AM – Jan. 17, 2021, 11:59PM </center>
 
+### <b><ins style="color:blue;">[Problem set](/assets/pdfs/2020-2021/SJAMMO/sjammo2.pdf){: target="_blank"}</ins></b>
+
+### <b><ins style="color:blue;">[Official solutions](/assets/pdfs/2020-2021/SJAMMO/sjammo2sol.pdf){: target="_blank"}</ins></b>
+
 ### Results:
 <i> For participants: please check your email for feedback on your submission :) </i>
 <div class="table-wrapper" markdown="block">
 
 This year we had 22 teams who signed up and 9 teams who made a submission before the deadline. The top 6 teams are listed below. (The scores in the parentheses indicate maximum possible scores.)
 
-|Team name|Overall&nbsp;award|Division&#8209;based&nbsp;award|Total&nbsp;score (78)|Q1 (1)|Q2 (2)|Q3 (3)|Q4 (4)|Q5 (5)|Q6 (6)|Q7 (7)|Q8 (8)|Q9 (9)|Q10 (10)|Q11 (11)|Q12 (12)|
+|Team name|School|Overall&nbsp;award|Division&#8209;based&nbsp;award|Total&nbsp;score (78)|Q1 (1)|Q2 (2)|Q3 (3)|Q4 (4)|Q5 (5)|Q6 (6)|Q7 (7)|Q8 (8)|Q9 (9)|Q10 (10)|Q11 (11)|Q12 (12)|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| I'd&nbsp;li&#8209;ke&nbsp;so&#8209;me&nbsp;mo&#8209;re&nbsp;caw&#8209;fee | Gold&nbsp;Award | Old People: Gold | 52.5 | 1 | 2 | 3 | 3.5 | 1 | 6 | 7 | 6.5 | 9 | 1.5 | 1 | 11 |
-| Xiang | Silver&nbsp;Award | Senior Level: Gold | 49.5 | 1 | 2 | 2.5 | 3.5 | 3 | 5 | 2 | 8 | 3 | 7.5 | 0 | 12 |
-| REQUIRED | Bronze&nbsp;Award | Babies: Gold | 36 | 1 | 2 | 3 | 3.5 | 5 | 6 | 2 | 7.5 | 6 | - | - | - |
-| Potato | Honorable&nbsp;Mention | Junior Level: Gold | 24 | 1 | 1.5 | 2 | 1 | 0 | 6 | 2 | 1.5 | 9 | - | - | - |
-| Zed Li's Knees | Honorable&nbsp;Mention | Senior Level: Silver | 13.5 | 1 | 2 | 3 | 0 | 1.5 | 6 | - | - | - | - | - | - |
-| Logic Flaw | Honorable&nbsp;Mention | Junior Level: Silver | 11 | 0.5 | 2 | 2.5 | - | 0 | - | 2 | 4 | 0 | - | - | - |
+| I'd&nbsp;li&#8209;ke&nbsp;so&#8209;me&nbsp;mo&#8209;re&nbsp;caw&#8209;fee | UTokyo | Gold&nbsp;Award | Old People: Gold | 52.5 | 1 | 2 | 3 | 3.5 | 1 | 6 | 7 | 6.5 | 9 | 1.5 | 1 | 11 |
+| Xiang | SJAM | Silver&nbsp;Award | Senior Level: Gold | 49.5 | 1 | 2 | 2.5 | 3.5 | 3 | 5 | 2 | 8 | 3 | 7.5 | 0 | 12 |
+| REQUIRED | Laurelwood P.S. | Bronze&nbsp;Award | Babies: Gold | 36 | 1 | 2 | 3 | 3.5 | 5 | 6 | 2 | 7.5 | 6 | - | - | - |
+| Potato | SJAM | Honorable&nbsp;Mention | Junior Level: Gold | 24 | 1 | 1.5 | 2 | 1 | 0 | 6 | 2 | 1.5 | 9 | - | - | - |
+| Zed Li's Knees | SJAM | Honorable&nbsp;Mention | Senior Level: Silver | 13.5 | 1 | 2 | 3 | 0 | 1.5 | 6 | - | - | - | - | - | - |
+| Logic Flaw | SJAM | Honorable&nbsp;Mention | Junior Level: Silver | 11 | 0.5 | 2 | 2.5 | - | 0 | - | 2 | 4 | 0 | - | - | - |
 
 </div>
 
 <br>
-
-### <b><ins style="color:blue;">[Problem set](/assets/pdfs/2020-2021/SJAMMO/sjammo2.pdf){: target="_blank"}</ins></b>
-
-### <b><ins style="color:blue;">[Official solutions](/assets/pdfs/2020-2021/SJAMMO/sjammo2sol.pdf){: target="_blank"}</ins></b>
 
 ### Contact information:
 If you have any questions or comments, please email Zed (liz0075@wrdsb.ca), Tian (chent4452@wrdsb.ca), or Biscuit (bichc3017@wrdsb.ca). We'll be happy to help :D
